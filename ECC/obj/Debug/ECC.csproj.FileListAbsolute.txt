@@ -1,0 +1,7 @@
+C:\Projects\ECC\bin\Debug\ECC.exe.config
+C:\Projects\ECC\bin\Debug\ECC.exe
+C:\Projects\ECC\bin\Debug\ECC.pdb
+C:\Projects\ECC\obj\Debug\ECC.csprojAssemblyReference.cache
+C:\Projects\ECC\obj\Debug\ECC.csproj.CoreCompileInputs.cache
+C:\Projects\ECC\obj\Debug\ECC.exe
+C:\Projects\ECC\obj\Debug\ECC.pdb
